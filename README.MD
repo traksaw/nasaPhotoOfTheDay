@@ -4,6 +4,12 @@ Welcome to the **NASA Photo of the Day App**! 🚀 This application leverages NA
 
 ---
 
+## 🎨 Screenshot
+
+![NASA Photo of the Day App](./img/screenshot.png)
+
+---
+
 ## 🌟 Features
 
 - **Daily Cosmic Insights**: View NASA's curated Astronomy Picture of the Day (APOD).
@@ -23,11 +29,6 @@ Welcome to the **NASA Photo of the Day App**! 🚀 This application leverages NA
    - Metadata like the title and copyright (if applicable).
 3. **Responsive Presentation**: The content is dynamically displayed using modern web technologies, ensuring it adapts to any device.
 
----
-
-## 🎨 Screenshot
-
-![NASA Photo of the Day App](./img/screenshot.png)
 
 ---
 
