@@ -27,7 +27,7 @@ Welcome to the **NASA Photo of the Day App**! 🚀 This application leverages NA
 
 ## 🎨 Screenshot
 
-![NASA Photo of the Day App](screenshot.jpg)
+![NASA Photo of the Day App](./img/screenshot.png)
 
 ---
 
